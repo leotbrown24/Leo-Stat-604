@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <title> Leo's webpage </title>
 
 <head> <h1> Leo Brown </h1> </head>
@@ -11,11 +10,5 @@
 	  </tr>
 	  <tr>
 		<td> 
-			<ul> <li> <h4> I have degrees in Geology, Geotechnical Engineering, and Geophysics </li>
-			  <li> <h4> As a geophysicist, I like rocks and can do easy math  </li>
-			</ul>
-		</td>
-	   </tr>
- 	</table>
-  </body>
-</html>
+			<ul> <li> <h4> I have degrees in Geology, Geotechnical Engineering, and Geophysics
+			  <li> <h4> As a geophysicist, I like rocks and can do easy math  
