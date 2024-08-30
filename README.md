@@ -11,10 +11,8 @@
 	  </tr>
 	  <tr>
 		<td> 
-			<ul> <li> <h4> I have degrees in Geology, Geotechnical Engineering, and Geophysics
-			  <li> <h4> As a geophysicist, I like rocks and can do easy math  
-			  </h4>
+			<ul> <li> <h4> I have degrees in Geology, Geotechnical Engineering, and Geophysics </h4>
+			  <li> <h4> As a geophysicist, I like rocks and can do easy math  </h4>
 			  </li>
-			</body>
-   
+ </body>
      
